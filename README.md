@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Shekhar</h1>
+<h3 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></h3>
 <h3 align="center">A passionate Python developer from India</h3>
 
 - 🌱 I’m currently learning **Generative-AI**
